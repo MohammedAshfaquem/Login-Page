@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "554538066049",
+    "project_id": "sign-in-881f1",
+    "storage_bucket": "sign-in-881f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554538066049:android:62f8241bf47174b126ad80",
+        "android_client_info": {
+          "package_name": "com.example.loginpage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0a9iPnwc8z6pwVTEZdFuh66BTsABpx8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554538066049:android:2dce0d0031718d9026ad80",
+        "android_client_info": {
+          "package_name": "com.lexmple.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0a9iPnwc8z6pwVTEZdFuh66BTsABpx8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
